@@ -2,6 +2,6 @@
 OpenRival
 =========
 
-Open Source SteelSeries Engine alternative based on rivalcfg_
+Open Source SteelSeries Engine alternative for rival mouses based on rivalcfg_
 
 .. _rivalcfg: https://github.com/flozz/rivalcfg
